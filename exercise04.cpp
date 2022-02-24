@@ -17,13 +17,13 @@ int main() //begin main
 // Do not change the print() function
 void print(int len, int wth)       //implementing print function
 {
-   cout << "Length : " << len 
+   cout << "Length : " << len     //final output 
         << ", Width  : " << wth << endl;
 }
 
 // Implement the Input Function here
 void input(int len, int wth)       //implementing print function 
 {
-   cout << "Length : " << len 
-        << ", Width  : " << wth << endl;
+   cout << "Length : " << len     //final output
+        << ", Width  : " << wth << endl;  
 }
